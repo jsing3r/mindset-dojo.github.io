@@ -1,0 +1,24 @@
+---
+layout: threshold
+sections_key: author
+name: Josef Singer
+description: Short bio sentence.
+mantra: "What you repeat, you become"
+mantra_mark: Repeat
+active: true
+join_date: 2025-12-12
+program_level: -1
+program_level_date: 2025-06-01
+leadership_designations: []
+emoji_signature: "✍️"
+custom_url: https://example.com
+about: |
+  ### Summary
+
+  A short paragraph on who you are and what you are practicing.
+
+  ### Connect
+
+  - [Email](mailto:jane@example.com)
+  - [LinkedIn](https://linkedin.com/in/janedoe)
+---
